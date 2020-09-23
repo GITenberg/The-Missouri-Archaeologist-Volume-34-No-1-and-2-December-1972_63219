@@ -1,0 +1,25 @@
+_repo: The-Missouri-Archaeologist-Volume-34-No-1-and-2-December-1972_63219
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Bray, Robert T.
+    gutenberg_agent_id: '52334'
+    url: http://www.gutenberg.org/2009/agents/52334
+description: ''
+gutenberg_issued: '2020-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63219'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Missouri Archaeologist, Volume 34, No. 1 and 2, December 1972
+url: http://www.gutenberg.org/ebooks/63219
